@@ -1,0 +1,6 @@
+pysimplegui
+mysql-connector-python
+pandas
+requests
+imapclient
+BeautifulSoup4
